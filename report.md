@@ -1,1 +1,4 @@
 - made github repo
+- made a heading with hello world ,as well as student name 
+- added neccesary files to complement my work  
+- bundled the work and submitted on moodle for marking 
